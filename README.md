@@ -2,7 +2,7 @@
 
 <h1 style={{color:'red'}}>Loading ...</h1>
 
-**rajibjonchhen** is a ✨ _special_ 
+**rajib jonchhen**  ✨ 
 
 =>🔭 I’m currently working on my school projects... 
 
