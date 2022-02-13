@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I am **rajib jonchhen**  ✨ 
 
 <h1 style={{color:'red'}}>Loading ...</h1>
 
-**rajib jonchhen**  ✨ 
+
 
 =>🔭 I’m currently working on my school projects... 
 
