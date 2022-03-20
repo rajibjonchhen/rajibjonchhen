@@ -13,13 +13,13 @@
 
 => 📫 How to reach me: 
 
-@ <img src="./assets/google.png">      -   rajib.jonchhen@gmail.com
+@ gmail      >  -   rajib.jonchhen@gmail.com
 
-@ <img src="./assets/linkedin.png">  -   http://linkedin.com/in/rajib-jonchhen
+@ linkedin   >  -   http://linkedin.com/in/rajib-jonchhen
 
-@ <img src="./assets/twitter.png">    -   a1rajib
+@ twitter    >  -   a1rajib
 
-@ <img src="./assets/insta.png">  -   rajijon
+@ insta      >  -   rajijon
 
 => 😄 
 
