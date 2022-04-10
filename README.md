@@ -27,3 +27,5 @@
 
 --> So beside programming ... Ask me about              coffee, cocktail, 
     and travel suggestion
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajibjonchhen)](https://github.com/rajibjonchhen/github-readme-stats)
