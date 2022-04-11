@@ -15,7 +15,7 @@
 
  
  
- <img src="https://img.shields.io/badge/Gmail-rajib.jonchhen@gmail.com-blue??style=plastic&logo=google"/>
+ <img src="https://img.shields.io/badge/Gmail-rajib.jonchhen@gmail.com-red??style=plastic&logo=google"/>
  
 
 @ gmail      >  -   rajib.jonchhen@gmail.com
