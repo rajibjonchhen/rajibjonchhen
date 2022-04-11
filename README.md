@@ -14,7 +14,7 @@
 => 📫 How to reach me: 
 
  
- 
+ <div>
  <img src="https://img.shields.io/badge/Gmail-rajib.jonchhen@gmail.com-red?style=plastic&logo=google"/>
  
  <img src="https://img.shields.io/badge/Linkedin-rajib-jonchhen-informational?style=plastic&logo=linkedin"/>
@@ -31,7 +31,7 @@
 
 <img src="https://img.shields.io/badge/%20-Node js-green?style=plastic&logo=node"/>
 
-
+<div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajibjonchhen)](https://github.com/rajibjonchhen/github-readme-stats)
 
