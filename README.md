@@ -24,7 +24,7 @@
  <img src="https://img.shields.io/badge/Twitter-a1rajib-blue?style=plastic&logo=twitter"/>
  
  <div>
-<img src="https://img.shields.io/badge/+-MongoDB-green?style=plastic&logo=mongo"/>
+<img src="https://img.shields.io/badge/+-MongoDB-green?style=plastic&logo=database"/>
 
 <img src="https://img.shields.io/badge/+-React Js-green?style=plastic&logo=react"/>
 
