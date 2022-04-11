@@ -20,9 +20,9 @@ Rajib Jonchhen here ✨  <img src="https://media-exp1.licdn.com/dms/image/C5616A
  
  <img src="https://img.shields.io/badge/Linkedin-rajib jonchhen-informational?style=plastic&logo=linkedin"/>
  
- <img src="https://img.shields.io/badge/Instagram-rajijon-purple?style=plastic&logo=instagram"/>
+ <img src="https://img.shields.io/badge/Instagram-    rajijon   -purple?style=plastic&logo=instagram"/>
  
- <img src="https://img.shields.io/badge/Twitter-a1rajib-blue?style=plastic&logo=twitter"/>
+ <img src="https://img.shields.io/badge/Twitter-     a1rajib    -blue?style=plastic&logo=twitter"/>
  
  <div>
 <img src="https://img.shields.io/badge/+-MongoDB-green?style=plastic&logo=database"/>
