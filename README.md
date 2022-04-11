@@ -12,7 +12,9 @@
 => 🤔 I’m looking for help with finding job as developer...
 
 => 📫 How to reach me: 
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+
+ 
+ 
  <img src="https://img.shields.io/badge/Gmail-rajib.jonchhen@gmail.com-blue??style=plastic&logo=google"/>
  
 
