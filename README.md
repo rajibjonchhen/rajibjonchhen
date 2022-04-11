@@ -17,13 +17,23 @@
  
  <img src="https://img.shields.io/badge/Gmail-rajib.jonchhen@gmail.com-red?style=plastic&logo=google"/>
  
- <img src="https://img.shields.io/badge/Linkedin-/rajib-jonchhen-informational?style=plastic&logo=linkedin"/>
+ <img src="https://img.shields.io/badge/Linkedin-rajib-jonchhen-informational?style=plastic&logo=linkedin"/>
  
  <img src="https://img.shields.io/badge/Instagram-rajijon-purple?style=plastic&logo=instagram"/>
  
  <img src="https://img.shields.io/badge/Twitter-a1rajib-blue?style=plastic&logo=twitter"/>
  
+<img src="https://img.shields.io/badge/%20-MongoDB-green?style=plastic&logo=mongo"/>
 
+<img src="https://img.shields.io/badge/%20-React Js-green?style=plastic&logo=react"/>
+
+<img src="https://img.shields.io/badge/%20-Express Js-green?style=plastic&logo=javascript"/>
+
+<img src="https://img.shields.io/badge/%20-Node js-green?style=plastic&logo=node"/>
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajibjonchhen)](https://github.com/rajibjonchhen/github-readme-stats)
 
 => 😄 
 
@@ -31,5 +41,3 @@
 
 --> So beside programming ... Ask me about              coffee, cocktail, 
     and travel suggestion
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajibjonchhen)](https://github.com/rajibjonchhen/github-readme-stats)
