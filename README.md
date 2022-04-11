@@ -17,7 +17,7 @@
  
  <img src="https://img.shields.io/badge/Gmail-rajib.jonchhen@gmail.com-red?style=plastic&logo=google"/>
  
- <img src="https://img.shields.io/badge/Linkedin-rajib-jonchhen-informational?style=plastic&logo=linkedin"/>
+ <img src="https://img.shields.io/badge/Linkedin-rajib jonchhen-informational?style=plastic&logo=linkedin"/>
  
  <img src="https://img.shields.io/badge/Instagram-rajijon-purple?style=plastic&logo=instagram"/>
  
