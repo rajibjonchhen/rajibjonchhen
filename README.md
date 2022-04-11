@@ -15,9 +15,14 @@
 
  
  
- <img src="https://img.shields.io/badge/Gmail-rajib.jonchhen@gmail.com-red??style=plastic&logo=google"/>
+ <img src="https://img.shields.io/badge/Gmail-rajib.jonchhen@gmail.com-red?style=plastic&logo=google"/>
  
-
+ <img src="https://img.shields.io/badge/Linkedin-http://linkedin.com/in/rajib-jonchhen-informational?style=plastic&logo=linkedin"/>
+ 
+ <img src="https://img.shields.io/badge/Instagram-rajijon-purple?style=plastic&logo=instagram"/>
+ 
+ <img src="https://img.shields.io/badge/Twitter-a1rajib-blue?style=plastic&logo=twitter"/>
+ 
 @ gmail      >  -   rajib.jonchhen@gmail.com
 
 @ linkedin   >  -   http://linkedin.com/in/rajib-jonchhen
