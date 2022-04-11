@@ -26,11 +26,11 @@
  <div>
 <img src="https://img.shields.io/badge/+-MongoDB-green?style=plastic&logo=mongo"/>
 
-<img src="https://img.shields.io/badge/%20-React Js-green?style=plastic&logo=react"/>
+<img src="https://img.shields.io/badge/+-React Js-green?style=plastic&logo=react"/>
 
-<img src="https://img.shields.io/badge/%20-Express Js-green?style=plastic&logo=javascript"/>
+<img src="https://img.shields.io/badge/+-Express Js-green?style=plastic&logo=javascript"/>
 
-<img src="https://img.shields.io/badge/%20-Node js-green?style=plastic&logo=node"/>
+<img src="https://img.shields.io/badge+-Node js-green?style=plastic&logo=node"/>
 
 <div>
 
