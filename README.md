@@ -3,6 +3,7 @@
 # Hello, there! 
 <h3>Rajib Jonchhen here ✨ </h3> <img src="https://media-exp1.licdn.com/dms/image/C5616AQGum5ru2eUB5Q/profile-displaybackgroundimage-shrink_350_1400/0/1639960770477?e=1652918400&v=beta&t=kKlbelfGREBa6db8Z-DH0P2muiNmebs3TLw__Q2XB10" width="100%">
 <h1>Loading ...</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stake+Developer;%2B3+years+of+managerial+experience+in+hospitality+industry;M.Sc.+in+Business+and+Communication+Studies;Working+hard+to+be+a+developer;Its+never+too+late+to+follow+your+dream)](https://git.io/typing-svg)
 
 <h4>About Me</h4>
 A full stack developer with Business and Communication background. I am looking forward to start a career as a developer. With my multidisciplinary education i.e Business and Communication, designing trainings and some years of managerial experience. I will definitely consider to make my projects and programmes cost efficient, strategically positioned, user friendly.
