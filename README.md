@@ -39,11 +39,11 @@ Rajib Jonchhen here ✨  <img src="https://media-exp1.licdn.com/dms/image/C5616A
  
  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white"/>
  
- <img src="https://img.shields.io/badge/Mysql-blue?style=for-the-badge&logo=SQL&logoColor=white/>
+ <img src="https://img.shields.io/badge/Mysql-blue?style=for-the-badge&logo=SQL&logoColor=white"/>
  
-  <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white/> 
+  <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/> 
   
-  <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white/> 
+  <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/> 
              
  <img src="https://img.shields.io/badge/Sequelize-9cf?style=for-the-badge&logo=Sequelize&logoColor=white"/>
 
