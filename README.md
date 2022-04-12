@@ -5,16 +5,14 @@ Rajib Jonchhen here ✨  <img src="https://media-exp1.licdn.com/dms/image/C5616A
 <h1>Loading ...</h1>
 
 
-
-=>🔭 Currently working on my school projects 🌱
+=>🔭 Currently working on my Capstone Project "Creator's Space" 🌱
  
 =>👯 I’m looking to collaborate on logical web app or websites...
 
 => 🤔 I’m looking for help with finding job as developer...
 
-=> 📫 How to reach me: 
-
- 
+  <h1>📫 How to reach me:</h1>
+ <hr/>
  
  <img src="https://img.shields.io/badge/Gmail-rajib.jonchhen@gmail.com-red?style=for-the-badge&logo=google"/>
  
@@ -24,6 +22,9 @@ Rajib Jonchhen here ✨  <img src="https://media-exp1.licdn.com/dms/image/C5616A
  
  <img src="https://img.shields.io/badge/Twitter-     a1rajib    -blue?style=for-the-badge&logo=twitter"/>
  
+ 
+ <h1>Tools and languages</h1>
+ <hr/>
  <div>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
 
@@ -58,9 +59,11 @@ Rajib Jonchhen here ✨  <img src="https://media-exp1.licdn.com/dms/image/C5616A
                                                                                                        
                                                                                                        <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white"/>
 <div>
-
+<div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajibjonchhen)](https://github.com/rajibjonchhen/github-readme-stats)
-
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajibjonchhen&layout=compact)](https://github.com/rajibjonchhen/github-readme-stats)
+ </div>
 => 😄 
 
 --> ⚡ Fun fact: ...Also worked as Bartender & Barista
