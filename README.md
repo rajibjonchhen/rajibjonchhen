@@ -25,11 +25,11 @@ Rajib Jonchhen here ✨  <img src="https://media-exp1.licdn.com/dms/image/C5616A
  <img src="https://img.shields.io/badge/Twitter-     a1rajib    -blue?style=for-the-badge&logo=twitter"/>
  
  <div>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Express.Js-black?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/Express.Js-black?style=for-the-badge&logo=express&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/React.Js-blue?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/React.Js-61DAFB?style=for-the-badge&logo=react"/>
 
 <img src="https://img.shields.io/badge/Node-success?style=for-the-badge&logo=node.js&logoColor=white"/>
  
@@ -39,8 +39,12 @@ Rajib Jonchhen here ✨  <img src="https://media-exp1.licdn.com/dms/image/C5616A
  
  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white"/>
  
- <img src="https://img.shields.io/badge/Mysql-blue?style=for-the-badge&logo=SQL&logoColor=white?&labelColor=#4479A1"/>
+ <img src="https://img.shields.io/badge/Mysql-blue?style=for-the-badge&logo=SQL&logoColor=white/>
  
+  <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white/> 
+  
+  <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white/> 
+             
  <img src="https://img.shields.io/badge/Sequelize-9cf?style=for-the-badge&logo=Sequelize&logoColor=white"/>
 
  <img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -49,7 +53,9 @@ Rajib Jonchhen here ✨  <img src="https://media-exp1.licdn.com/dms/image/C5616A
  
  <img src="https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
  
- 
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white"/>
+                                                                                                       
+                                                                                                       <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white"/>
 <div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajibjonchhen)](https://github.com/rajibjonchhen/github-readme-stats)
