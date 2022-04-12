@@ -25,7 +25,7 @@ Rajib Jonchhen here ✨  <img src="https://media-exp1.licdn.com/dms/image/C5616A
  <img src="https://img.shields.io/badge/Twitter-     a1rajib    -blue?style=plastic&logo=twitter"/>
  
  <div>
-<img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=database"/>
+<img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=node.js"/>
 
 <img src="https://img.shields.io/badge/React Js-blue?style=for-the-badge&logo=react"/>
 
