@@ -27,9 +27,9 @@ Rajib Jonchhen here ✨  <img src="https://media-exp1.licdn.com/dms/image/C5616A
  <div>
 <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=node.js"/>
 
-<img src="https://img.shields.io/badge/React Js-blue?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/React.Js-blue?style=for-the-badge&logo=react"/>
 
-<img src="https://img.shields.io/badge/Express Js-yellow?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/Express.Js-black?style=for-the-badge&logo=express"/>
 
 <img src="https://img.shields.io/badge/Node-success?style=for-the-badge&logo=node.js"/>
  
@@ -37,11 +37,11 @@ Rajib Jonchhen here ✨  <img src="https://media-exp1.licdn.com/dms/image/C5616A
  
  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3"/>
 
- <img src="https://img.shields.io/badge/Typescript-informational?style=for-the-badge&logo=typescript"/>
+ <img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript"/>
  
- <img src="https://img.shields.io/badge/Bootstrap-bluevoilet?style=for-the-badge&logo=bootstrap"/>
+ <img src="https://img.shields.io/badge/Bootstrap-blueviolet?style=for-the-badge&logo=bootstrap"/>
  
- <img src="https://img.shields.io/badge/PostgreSQL-bluevoilet?style=for-the-badge&logo=PostgreSQL"/>
+ <img src="https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=PostgreSQL"/>
  
  
 <div>
