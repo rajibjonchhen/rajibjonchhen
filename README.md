@@ -5,8 +5,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;M.Sc.+in+Business+and+Communication+Studies;3+years+of+managerial+experience+in+hospitality;Working+hard+to+be+developer;Following+dream;Its+never+too+late+to+follow+dream)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/ lines=Full+Stake+Developer;M.Sc.+in+Business+and+Communication+Studies;3+years+of+managerial+experience+in+hospitality+industry;Working+hard+to+be+a+developer;Its+never+too+late+to+follow+your+dream)](https://git.io/typing-svg)
-
 
 <img src="https://media-exp1.licdn.com/dms/image/C5616AQGum5ru2eUB5Q/profile-displaybackgroundimage-shrink_350_1400/0/1639960770477?e=1652918400&v=beta&t=kKlbelfGREBa6db8Z-DH0P2muiNmebs3TLw__Q2XB10" width="100%">
 <h1>Loading ...</h1>
