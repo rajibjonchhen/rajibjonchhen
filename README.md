@@ -16,13 +16,13 @@ Rajib Jonchhen here ✨  <img src="https://media-exp1.licdn.com/dms/image/C5616A
 
  
  
- <img src="https://img.shields.io/badge/Gmail-rajib.jonchhen@gmail.com-red?style=plastic&logo=google"/>
+ <img src="https://img.shields.io/badge/Gmail-rajib.jonchhen@gmail.com-red?style=for-the-badge&logo=google"/>
  
- <img src="https://img.shields.io/badge/Linkedin-rajib jonchhen-informational?style=plastic&logo=linkedin"/>
+ <img src="https://img.shields.io/badge/Linkedin-rajib jonchhen-informational?style=for-the-badge&logo=linkedin"/>
  
- <img src="https://img.shields.io/badge/Instagram-    rajijon   -purple?style=plastic&logo=instagram"/>
+ <img src="https://img.shields.io/badge/Instagram-    rajijon   -purple?style=for-the-badge&logo=instagram"/>
  
- <img src="https://img.shields.io/badge/Twitter-     a1rajib    -blue?style=plastic&logo=twitter"/>
+ <img src="https://img.shields.io/badge/Twitter-     a1rajib    -blue?style=for-the-badge&logo=twitter"/>
  
  <div>
 <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=node.js"/>
@@ -31,7 +31,11 @@ Rajib Jonchhen here ✨  <img src="https://media-exp1.licdn.com/dms/image/C5616A
 
 <img src="https://img.shields.io/badge/Express Js-yellow?style=for-the-badge&logo=javascript"/>
 
-<img src="https://img.shields.io/badge/Node js-brown?style=for-the-badge&logo=node"/>
+<img src="https://img.shields.io/badge/Node-brown?style=for-the-badge&logo=node"/>
+ 
+ <img src="https://img.shields.io/badge/HTML-brown?style=for-the-badge&logo=html"/>
+ 
+ <img src="https://img.shields.io/badge/CSS-brown?style=for-the-badge&logo=css"/>
 
 <div>
 
