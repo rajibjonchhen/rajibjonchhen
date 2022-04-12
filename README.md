@@ -31,15 +31,15 @@ Rajib Jonchhen here ✨  <img src="https://media-exp1.licdn.com/dms/image/C5616A
 
 <img src="https://img.shields.io/badge/Express.Js-black?style=for-the-badge&logo=express"/>
 
-<img src="https://img.shields.io/badge/Node-success?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Node-success?style=for-the-badge&logo=node.js&logoColor=white"/>
  
  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html"/>
  
  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3"/>
 
- <img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=violet"/>
+ <img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white"/>
  
- <img src="https://img.shields.io/badge/Bootstrap-blueviolet?style=for-the-badge&logo=bootstrap"/>
+ <img src="https://img.shields.io/badge/Bootstrap-blueviolet?style=for-the-badge&logo=bootstrap&logoColor=white"/>
  
  <img src="https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=PostgreSQL"/>
  
