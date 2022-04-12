@@ -12,7 +12,7 @@ Rajib Jonchhen here ✨  <img src="https://media-exp1.licdn.com/dms/image/C5616A
 => 🤔 I’m looking for help with finding job as developer...
 
   <h1>📫 How to reach me:</h1>
- <hr/>
+
  
  <img src="https://img.shields.io/badge/Gmail-rajib.jonchhen@gmail.com-red?style=for-the-badge&logo=google"/>
  
@@ -24,7 +24,7 @@ Rajib Jonchhen here ✨  <img src="https://media-exp1.licdn.com/dms/image/C5616A
  
  
  <h1>Tools and languages</h1>
- <hr/>
+
  <div>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
 
