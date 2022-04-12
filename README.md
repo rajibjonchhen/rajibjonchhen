@@ -5,7 +5,7 @@
 <h1>Loading ...</h1>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stake+Developer;3+years+of+managerial+experience+in+hospitality+industry;M.Sc.+in+Business+and+Communication+Studies;Working+hard+to+be+a+developer;Its+never+too+late+to+follow+your+dream)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stake+Developer;%2B3+years+of+managerial+experience+in+hospitality+industry;3+years+of+managerial+experience+in+hospitality+industry;Working+hard+to+be+a+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stake+Developer;M.Sc.+in+Business+and+Communication+Studies;%2B3+years+of+managerial+experience+in+hospitality+industry;3+years+of+managerial+experience+in+hospitality+industry;Working+hard+to+be+a+developer)](https://git.io/typing-svg)
 <h4>About Me</h4>
 A full stack developer with Business and Communication background. I am looking forward to start a career as a developer. With my multidisciplinary education i.e Business and Communication, designing trainings and some years of managerial experience. I will definitely consider to make my projects and programmes cost efficient, strategically positioned, user friendly.
  
