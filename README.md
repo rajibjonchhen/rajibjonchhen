@@ -25,7 +25,7 @@ Rajib Jonchhen here ✨  <img src="https://media-exp1.licdn.com/dms/image/C5616A
  <img src="https://img.shields.io/badge/Twitter-     a1rajib    -blue?style=for-the-badge&logo=twitter"/>
  
  <div>
-<img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB"/>
 
 <img src="https://img.shields.io/badge/Express.Js-black?style=for-the-badge&logo=express"/>
 
@@ -33,7 +33,7 @@ Rajib Jonchhen here ✨  <img src="https://media-exp1.licdn.com/dms/image/C5616A
 
 <img src="https://img.shields.io/badge/Node-success?style=for-the-badge&logo=node.js&logoColor=white"/>
  
- <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML5"/>
+ <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML5&logoColor=white"/>
  
  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3"/>
  
