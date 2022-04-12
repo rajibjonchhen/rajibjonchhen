@@ -62,7 +62,7 @@
 
 
  <h1> My Performance </h1>
- 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajibjonchhen&langs_count=8)](https://github.com/rajibjonchhen/github-readme-stats)
  <div>
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajibjonchhen&show_icons=true&theme=radical" />
@@ -72,7 +72,7 @@
 </a>
  </div>
  <div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajibjonchhen&langs_count=8)](https://github.com/rajibjonchhen/github-readme-stats)
+ 
 => 😄 
 
 --> ⚡ Fun fact: ...Also worked as Bartender & Barista
