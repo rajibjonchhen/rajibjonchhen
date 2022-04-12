@@ -58,12 +58,11 @@ Rajib Jonchhen here ✨  <img src="https://media-exp1.licdn.com/dms/image/C5616A
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white"/>
                                                                                                        
                                                                                                        <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white"/>
-<div>
-<div>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajibjonchhen)](https://github.com/rajibjonchhen/github-readme-stats)
  
  
- </div>
+ 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajibjonchhen&layout=compact)](https://github.com/rajibjonchhen/github-readme-stats)
 => 😄 
 
