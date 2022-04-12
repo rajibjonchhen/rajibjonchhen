@@ -30,7 +30,7 @@
 
 <img src="https://img.shields.io/badge/Express.Js-black?style=for-the-badge&logo=express&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/React Js-61DAFB?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/React Js-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Node-success?style=for-the-badge&logo=node.js&logoColor=white"/>
  
@@ -42,7 +42,7 @@
  
  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
  
- <img src="https://img.shields.io/badge/Mysql-blue?style=for-the-badge&logo=SQL&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Mysql-blue?style=for-the-badge&logo=MySQL&logoColor=white"/>
  
   <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/> 
   
