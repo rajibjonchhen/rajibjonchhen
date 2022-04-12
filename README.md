@@ -8,6 +8,7 @@
 A full stack developer with Business and Communication background. I am looking forward to start a career as a developer. With my multidisciplinary education i.e Business and Communication, designing trainings and some years of managerial experience. I will definitely consider to make my projects and programmes cost efficient, strategically positioned, user friendly.
  
 
+<hr/>
 =>🔭 Currently working on my Capstone Project "Creator's Space" 🌱
  
 =>👯 I’m looking to collaborate on logical web app or websites...
