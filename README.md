@@ -12,7 +12,7 @@
 => 🤔 I’m looking for help with finding job as developer...
 
   <h1>📫 How to reach me:</h1>
-
+<div>
  
  <img src="https://img.shields.io/badge/Gmail-rajib.jonchhen@gmail.com-red?style=for-the-badge&logo=google"/>
  
@@ -22,7 +22,7 @@
  
  <img src="https://img.shields.io/badge/Twitter-     a1rajib    -blue?style=for-the-badge&logo=twitter"/>
  
- 
+ </div>
  <h1>Tools and languages</h1>
 
  <div>
