@@ -25,13 +25,13 @@ Rajib Jonchhen here ✨  <img src="https://media-exp1.licdn.com/dms/image/C5616A
  <img src="https://img.shields.io/badge/Twitter-     a1rajib    -blue?style=plastic&logo=twitter"/>
  
  <div>
-<img src="https://img.shields.io/badge/MongoDB-green?style=?style=for-the-badge&logo=database"/>
+<img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=database"/>
 
-<img src="https://img.shields.io/badge/React Js-green?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/React Js-blue?style=for-the-badge&logo=react"/>
 
-<img src="https://img.shields.io/badge/Express Js-green?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/Express Js-yellow?style=for-the-badge&logo=javascript"/>
 
-<img src="https://img.shields.io/badge/Node js-green?style=for-the-badge&logo=node"/>
+<img src="https://img.shields.io/badge/Node js-brown?style=for-the-badge&logo=node"/>
 
 <div>
 
