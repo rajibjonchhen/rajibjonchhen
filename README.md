@@ -3,6 +3,8 @@
 # Hello, there! 
 <h3>Rajib Jonchhen here ✨ </h3> 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;M.Sc.+in+Business+and+Communication+Studies;3+years+of+managerial+experience+in+hospitality;Working+hard+to+be+developer;Following+dream;Its+never+too+late+to+follow+dream)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/ lines=Full+Stake+Developer;M.Sc.+in+Business+and+Communication+Studies;3+years+of+managerial+experience+in+hospitality+industry;Working+hard+to+be+a+developer;Its+never+too+late+to+follow+your+dream)](https://git.io/typing-svg)
 
 
