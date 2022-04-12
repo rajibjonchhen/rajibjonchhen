@@ -62,8 +62,9 @@ Rajib Jonchhen here ✨  <img src="https://media-exp1.licdn.com/dms/image/C5616A
 <div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajibjonchhen)](https://github.com/rajibjonchhen/github-readme-stats)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajibjonchhen&layout=compact)](https://github.com/rajibjonchhen/github-readme-stats)
+ 
  </div>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajibjonchhen&layout=compact)](https://github.com/rajibjonchhen/github-readme-stats)
 => 😄 
 
 --> ⚡ Fun fact: ...Also worked as Bartender & Barista
