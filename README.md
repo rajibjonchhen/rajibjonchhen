@@ -41,7 +41,7 @@ Rajib Jonchhen here ✨  <img src="https://media-exp1.licdn.com/dms/image/C5616A
  
  <img src="https://img.shields.io/badge/Bootstrap-blueviolet?style=for-the-badge&logo=bootstrap&logoColor=white"/>
  
- <img src="https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=PostgreSQL"/>
+ <img src="https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
  
  
 <div>
