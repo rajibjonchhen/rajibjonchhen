@@ -31,11 +31,11 @@ Rajib Jonchhen here ✨  <img src="https://media-exp1.licdn.com/dms/image/C5616A
 
 <img src="https://img.shields.io/badge/Express Js-yellow?style=for-the-badge&logo=javascript"/>
 
-<img src="https://img.shields.io/badge/Node-brown?style=for-the-badge&logo=node"/>
+<img src="https://img.shields.io/badge/Node-brown?style=for-the-badge&logo=node.js"/>
  
  <img src="https://img.shields.io/badge/HTML-brown?style=for-the-badge&logo=html"/>
  
- <img src="https://img.shields.io/badge/CSS-brown?style=for-the-badge&logo=css"/>
+ <img src="https://img.shields.io/badge/CSS-brown?style=for-the-badge&logo=css3"/>
 
 <div>
 
