@@ -30,7 +30,7 @@
 
 <img src="https://img.shields.io/badge/Express.Js-black?style=for-the-badge&logo=express&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/React.Js-61DAFB?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/React Js-61DAFB?style=for-the-badge&logo=react"/>
 
 <img src="https://img.shields.io/badge/Node-success?style=for-the-badge&logo=node.js&logoColor=white"/>
  
