@@ -37,9 +37,11 @@ Rajib Jonchhen here ✨  <img src="https://media-exp1.licdn.com/dms/image/C5616A
  
  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3"/>
 
- <img src="https://img.shields.io/badge/Typescript-information?style=for-the-badge&logo=typescript"/>
+ <img src="https://img.shields.io/badge/Typescript-informational?style=for-the-badge&logo=typescript"/>
  
- <img src="https://img.shields.io/badge/Typescript-brown?style=for-the-badge&logo=typescript"/>
+ <img src="https://img.shields.io/badge/Bootstrap-bluevoilet?style=for-the-badge&logo=bootstrap"/>
+ 
+ <img src="https://img.shields.io/badge/PostgreSQL-bluevoilet?style=for-the-badge&logo=PostgreSQL"/>
  
  
 <div>
