@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;M.Sc.+in+Business+and+Communication+Studies;3+years+of+managerial+experience+in+hospitality;Working+hard+to+be+developer;Following+dream;Its+never+too+late+to+follow+dream)](https://git.io/typing-svg)
 
 
-<img src="[https://media-exp1.licdn.com/dms/image/C5616AQGum5ru2eUB5Q/profile-displaybackgroundimage-shrink_350_1400/0/1639960770477?e=1652918400&v=beta&t=kKlbelfGREBa6db8Z-DH0P2muiNmebs3TLw__Q2XB10](https://res.cloudinary.com/dai5duzoj/image/upload/v1654801501/linkedin/Screenshot_2022-06-09_at_19.35.36_gbjpps.png)" width="100%">
+<img src="[https://media-exp1.licdn.com/dms/image/C5616AQGum5ru2eUB5Q/profile-displaybackgroundimage-shrink_350_1400/0/1639960770477?e=1652918400&v=beta&t=kKlbelfGREBa6db8Z-DH0P2muiNmebs3TLw__Q2XB10](https://res.cloudinary.com/dai5duzoj/image/upload/v1654801501/linkedin/Screenshot_2022-06-09_at_19.35.36_gbjpps.png" width="100%">
 <h1>Loading ...</h1>
 
 
