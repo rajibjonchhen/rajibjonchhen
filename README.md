@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;M.Sc.+in+Business+and+Communication+Studies;3+years+of+managerial+experience+in+hospitality;Working+hard+to+be+developer;Following+dream;Its+never+too+late+to+follow+dream)](https://git.io/typing-svg)
 
 
-<img src="https://res.cloudinary.com/dai5duzoj/image/upload/v1654801501/linkedin/Screenshot_2022-06-09_at_19.35.36_gbjpps.png" width="100%">
+<img src="https://res.cloudinary.com/dai5duzoj/image/upload/v1654802080/linkedin/Screenshot_2022-06-09_at_20.14.16_lly5c5.png" width="100%">
 <h1>Loaded Full-stack developer </h1><h3>Loading ...</h3>
 
 
