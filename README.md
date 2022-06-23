@@ -27,7 +27,7 @@ A full stack developer with Business and Communication background. I am looking 
   <h1>📫 How to reach me:</h1>
 <div>
  <a href="https://gmail.google.com/inbox">
- <img src="https://img.shields.io/badge/Gmail-rajib.jonchhen@gmail.com-red?style=for-the-badge&logo=google"/>
+ <img src="https://img.shields.io/badge/Gmail"/>
   </a>
  <a href='https://www.linkedin.com/in/rajibjonchhen'>
  <img src="https://img.shields.io/badge/Linkedin-rajibjonchhen-informational?style=for-the-badge&logo=linkedin"/>
