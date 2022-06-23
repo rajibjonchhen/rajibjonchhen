@@ -77,12 +77,16 @@ A full stack developer with Business and Communication background. I am looking 
  <h1> My Performance </h1>
  
  <div>
+  <div>
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajibjonchhen&layout=compact&show_icons=true&theme=radical" width:"50%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajibjonchhen&layout=compact&show_icons=true&theme=radical"/>
 </a>
+  </div>
+  <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajibjonchhen&layout=compact&show_icons=true&theme=radical" width:"50%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajibjonchhen&layout=compact&show_icons=true&theme=radical" />
 </a>
+   </div>
  </div>
  <div>
  
