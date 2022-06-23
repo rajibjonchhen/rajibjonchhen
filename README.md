@@ -30,13 +30,13 @@ A full stack developer with Business and Communication background. I am looking 
  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=google"/>
   </a>
  <a href='https://www.linkedin.com/in/rajibjonchhen'>
- <img src="https://img.shields.io/badge/Linkedin-rajibjonchhen-informational?style=for-the-badge&logo=linkedin"/>
+ <img src="https://img.shields.io/badge/Linkedin-informational?style=for-the-badge&logo=linkedin"/>
  </a>
  <a href="https://www.instagram.com/rajijon">
- <img src="https://img.shields.io/badge/Instagram-    rajijon   -purple?style=for-the-badge&logo=instagram"/>
+ <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram"/>
   </a>
   <a href="https://twitter.com/a1rajib">
- <img src="https://img.shields.io/badge/Twitter-     a1rajib    -blue?style=for-the-badge&logo=twitter"/>
+ <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter"/>
   </a>
  </div>
  <h1>Tools and languages</h1>
