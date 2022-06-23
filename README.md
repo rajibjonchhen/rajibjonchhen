@@ -81,26 +81,18 @@ A full stack developer with Business and Communication background. I am looking 
  <h1> My Performance </h1>
  
  <div>
-  <div width="200px">
+  
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajibjonchhen&layout=compact&show_icons=true&theme=radical"/>
+  <img align="center" width="50%" height="100%" src="https://github-readme-stats.vercel.app/api?username=rajibjonchhen&layout=compact&show_icons=true&theme=radical"/>
 </a>
-  </div>
-  <div width="200px">
+ 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajibjonchhen&layout=compact&show_icons=true&theme=radical" />
-</a>
-   </div>
- </div>
- <div>
-  
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajibjonchhen&layout=compact&show_icons=true&theme=radical"/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
   <img align="center" width="50%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajibjonchhen&layout=compact&show_icons=true&theme=radical" />
 </a>
+ </div>
+ 
+ <div>
+  
  
 => 😄 
 
