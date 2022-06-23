@@ -28,9 +28,9 @@ A full stack developer with Business and Communication background. I am looking 
 <div>
  
  <img src="https://img.shields.io/badge/Gmail-rajib.jonchhen@gmail.com-red?style=for-the-badge&logo=google"/>
- 
- <img src="https://img.shields.io/badge/Linkedin-rajib jonchhen-informational?style=for-the-badge&logo=linkedin"/>
- 
+ <a href='https://www.linkedin.com/in/rajibjonchhen'>
+ <img src="https://img.shields.io/badge/Linkedin-rajibjonchhen-informational?style=for-the-badge&logo=linkedin"/>
+ </a>
  <img src="https://img.shields.io/badge/Instagram-    rajijon   -purple?style=for-the-badge&logo=instagram"/>
  
  <img src="https://img.shields.io/badge/Twitter-     a1rajib    -blue?style=for-the-badge&logo=twitter"/>
