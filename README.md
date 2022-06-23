@@ -57,6 +57,7 @@ A full stack developer with Business and Communication background. I am looking 
  <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white"/>
  
  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+ <br/>
  
  <img src="https://img.shields.io/badge/Mysql-blue?style=for-the-badge&logo=MySQL&logoColor=white"/>
  
