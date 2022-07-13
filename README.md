@@ -7,7 +7,7 @@
 
 
 <img src="https://res.cloudinary.com/dai5duzoj/image/upload/v1654802080/linkedin/Screenshot_2022-06-09_at_20.14.16_lly5c5.png" width="100%">
-<h1>Loaded Full-stack developer </h1><h3>Loading ...</h3>
+<h1>Loaded Full-stack developer </h1><h3>Loading ... SASS, Wordpress</h3>
 
 
 
