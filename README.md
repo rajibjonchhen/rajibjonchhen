@@ -7,7 +7,7 @@
 
 
 <img src="https://res.cloudinary.com/dai5duzoj/image/upload/v1654802080/linkedin/Screenshot_2022-06-09_at_20.14.16_lly5c5.png" width="100%">
-<h1>Loaded Full-stack developer </h1><h3>Loading ... SASS, Wordpress</h3>
+<h1>Loaded Full-stack developer </h1><h3>Loading ... new skills and technology </h3>
 
 
 
@@ -18,11 +18,8 @@ A full stack developer with Business and Communication background. I am looking 
  
 
 <hr/>
-=>🔭 Currently working on my Capstone Project "Creator's Space" 🌱
+=>🔭 Currently working in Codex Software 🌱
  
-=>👯 I’m looking to collaborate on logical web app or websites...
-
-=> 🤔 I’m looking for help with finding job as developer...
 
   <h1>📫 How to reach me:</h1>
 <div>
