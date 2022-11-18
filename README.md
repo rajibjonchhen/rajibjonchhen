@@ -12,9 +12,7 @@
 
 
 <h4>About Me</h4>
-A full stack developer with Business and Communication background. I am looking forward to start a career as a developer. With my multidisciplinary education i.e Business and Communication, designing trainings and some years of managerial experience. I will definitely consider to make my projects and programmes cost efficient, strategically positioned, user friendly.
- 
- 
+A full stack developer with Business and Communication background working in Codex Software as JS Developer. I am looking forward to countinuously learn new software, framework and libraries this will allow me to ensure my projects and programmes upto date cost efficient, strategically positioned, user friendly.
  
 
 <hr/>
