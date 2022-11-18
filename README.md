@@ -16,7 +16,7 @@ A full stack developer with Business and Communication background working in Cod
  
 
 <hr/>
-=>🔭 Currently working in Codex Software 🌱
+=> 💻 Currently working in Codex Software 🌱
  
 
   <h1>📫 How to reach me:</h1>
