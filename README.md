@@ -21,7 +21,7 @@ A full stack developer with Business and Communication background working in Cod
 
   <h1>📫 How to reach me:</h1>
 <div>
- <a href="https://gmail.google.com/inbox">
+ <a href="mailto:rajib.jonchhen@gmail.com">
  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=google"/>
   </a>
  <a href='https://www.linkedin.com/in/rajibjonchhen'>
