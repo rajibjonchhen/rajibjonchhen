@@ -82,7 +82,7 @@
 </a>
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="56%" height="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajibjonchhen&layout=compact&show_icons=true&theme=radical" />
+  <img align="center" width="36%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajibjonchhen&layout=compact&show_icons=true&theme=radical" />
 </a>
 
  
