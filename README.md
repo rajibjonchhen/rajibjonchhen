@@ -24,7 +24,7 @@
  <a href="mailto:rajib.jonchhen@gmail.com">
  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=google"/>
   </a>
- <a href='https://www.linkedin.com/in/rajibjonchhen'>
+ <a href='https://www.linkedin.com/in/rajibjonchhen' target="_blank">
  <img src="https://img.shields.io/badge/Linkedin-informational?style=for-the-badge&logo=linkedin"/>
  </a>
  <a href="https://www.instagram.com/rajijon">
