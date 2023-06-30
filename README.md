@@ -12,7 +12,7 @@
 
 
 <h4>About Me</h4>
-A full stack developer with Business and Communication background working in Codex Software as JS Developer. I am looking forward to countinuously learn new software, framework and libraries this will allow me to ensure my projects and programmes upto date cost efficient, strategically positioned, user friendly.
+As a full stack developer with a background in Business and Communication, I bring a unique perspective to the tech industry. With a focus on creating cost-efficient, user-friendly solutions, I am excited to collaborate with cross-functional teams and lead projects to success. Let's discuss how my skills can contribute to your company's growth.
  
 
 <hr/>
