@@ -27,10 +27,10 @@
  <a href='https://www.linkedin.com/in/rajibjonchhen' target="_blank">
  <img src="https://img.shields.io/badge/Linkedin-informational?style=for-the-badge&logo=linkedin"/>
  </a>
- <a href="https://www.instagram.com/rajijon">
+ <a href="https://www.instagram.com/rajijon" target="_blank">
  <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram"/>
   </a>
-  <a href="https://twitter.com/a1rajib">
+  <a href="https://twitter.com/a1rajib" target="_blank">
  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter"/>
   </a>
  </div>
