@@ -82,7 +82,7 @@ A full stack developer with Business and Communication background working in Cod
 </a>
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="37%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajibjonchhen&layout=compact&show_icons=true&theme=radical" />
+  <img align="center" width="36%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajibjonchhen&layout=compact&show_icons=true&theme=radical" />
 </a>
 
  
