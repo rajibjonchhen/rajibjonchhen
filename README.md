@@ -12,11 +12,11 @@
 
 
 <h4>About Me</h4>
-As a full stack developer with a background in Business and Communication, I bring a unique perspective to the tech industry. With a focus on creating cost-efficient, user-friendly solutions, I am excited to collaborate with cross-functional teams and lead projects to success. Let's discuss how my skills can contribute to your company's growth.
+ As a full stack developer with a background in Business and Communication, I bring a unique perspective to the tech industry. With a focus on creating cost-efficient, user-friendly solutions, I am excited to collaborate with cross-functional teams and lead projects to success. Let's discuss how my skills can contribute to your company's growth.
  
 
 <hr/>
-=> 💻 Currently working in Codex Software 🌱
+=> 💻 Currently looking for a new opportunity to develop professional skills  🌱
  
 
   <h1>📫 How to reach me:</h1>
